@@ -1,5 +1,5 @@
 Hey there, I’m Tigg3n! 👋<br>
-I’m a full-stack developer,passionate about building efficient, scalable systems with my knowledge in tech.I love tackling real-world challenges—whether it’s  managing online exams, or helping businesses streamline operations.Im the man for the job!.<br>
+I’m a full-stack developer,passionate about building efficient, scalable systems with my knowledge in tech.I love tackling real-world challenges—whether it’s  managing online tasks, or helping businesses streamline operations.Im the man for the job!.<br>
 🔹 Developer & Problem Solver | Laravel | JavaScript | MySQL<br>
 🔹 Passionate about building systems—from optimizing car hire services to managing online exams.<br>
 🔹 Always looking for ways to make tech practical & profitable (yes, I actually plan to sell my projects!).<br>
